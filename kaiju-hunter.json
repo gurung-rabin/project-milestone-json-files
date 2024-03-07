@@ -1,0 +1,92 @@
+[
+    {
+      "id": "KH-001",
+      "organization_name": "Omega Taskforce",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Omega_Taskforce.jpg",
+      "leader_name": "Commander Argus",
+      "headquarter": "Fortress Epsilon",
+      "founded_in": 1990,
+      "isActive": true
+    },
+    {
+      "id": "KH-002",
+      "organization_name": "Vanguard Sentinels",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Vanguard_Sentinels.jpg",
+      "leader_name": "Captain Lyra",
+      "headquarter": "Citadel Prime",
+      "founded_in": 1985,
+      "isActive": true
+    },
+    {
+      "id": "KH-003",
+      "organization_name": "Apex Protectors",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Apex_Protectors.jpg",
+      "leader_name": "General Atlas",
+      "headquarter": "Stronghold Omega",
+      "founded_in": 2005,
+      "isActive": true
+    },
+    {
+      "id": "KH-004",
+      "organization_name": "Thunderclap Division",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Thunderclap_Division.jpg",
+      "leader_name": "Colonel Drake",
+      "headquarter": "Thunderbase Alpha",
+      "founded_in": 1982,
+      "isActive": true
+    },
+    {
+      "id": "KH-005",
+      "organization_name": "Shadow Hunters Guild",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Shadow_Hunters.jpg",
+      "leader_name": "Master Sable",
+      "headquarter": "Shadow Keep",
+      "founded_in": 1998,
+      "isActive": true
+    },
+    {
+      "id": "KH-006",
+      "organization_name": "Starlight Crusaders",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Starlight_Crusaders.jpg",
+      "leader_name": "Commander Nova",
+      "headquarter": "Astrum Citadel",
+      "founded_in": 2001,
+      "isActive": true
+    },
+    {
+      "id": "KH-007",
+      "organization_name": "Ironclad Legion",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Ironclad_Legion.jpg",
+      "leader_name": "General Ironhide",
+      "headquarter": "Ironforge Bastion",
+      "founded_in": 1987,
+      "isActive": true
+    },
+    {
+      "id": "KH-008",
+      "organization_name": "Frostbite Brigade",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Frostbite_Brigade.jpg",
+      "leader_name": "Captain Frost",
+      "headquarter": "Glacier Outpost",
+      "founded_in": 1995,
+      "isActive": true
+    },
+    {
+      "id": "KH-009",
+      "organization_name": "Blaze Squadron",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Blaze_Squadron.jpg",
+      "leader_name": "Lieutenant Pyra",
+      "headquarter": "Inferno Citadel",
+      "founded_in": 2008,
+      "isActive": true
+    },
+    {
+      "id": "KH-010",
+      "organization_name": "Thunderbird Regiment",
+      "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Thunderbird_Regiment.jpg",
+      "leader_name": "Major Thunderwing",
+      "headquarter": "Stormhold Bastion",
+      "founded_in": 1989,
+      "isActive": true
+    }
+  ]

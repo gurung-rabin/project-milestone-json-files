@@ -1,0 +1,293 @@
+[
+    {
+      "id": "DKJ-01",
+      "name": "Ryujin the Storm Serpent",
+      "type": "Type-A",
+      "height": "250 meters",
+      "age": "Unknown",
+      "strength_level": 9,
+      "isActive": true,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "2003-11-03",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Ryujin.jpg",
+      "difficulty": "Extreme",
+      "description": "Ryujin is a colossal sea serpent with iridescent scales that shimmer like the ocean's surface. Its breath weapon is a torrential rainstorm that floods entire cities.",
+      "abilities": [
+        "Hydrokinesis: Ryujin can manipulate water at will, controlling even the most massive tidal waves.",
+        "Atmospheric Distortion: Ryujin's presence creates atmospheric disturbances, leading to sudden storms and chaotic weather patterns.",
+        "Hydroportation: Ryujin can teleport through bodies of water, allowing it to swiftly travel across oceans."
+      ],
+      "kaijuHunter": {
+        "id": "KH-001",
+        "organization_name": "Omega Taskforce",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Omega_Taskforce.jpg",
+        "leader_name": "Commander Argus",
+        "headquarter": "Fortress Epsilon",
+        "founded_in": 1990,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-02",
+      "name": "Zephyr the Sky Leviathan",
+      "type": "Type-B",
+      "height": "220 meters",
+      "age": "Unknown",
+      "strength_level": 7,
+      "isActive": true,
+      "isAbsorbed": false,
+      "isWeaponized": true,
+      "firstSighted": "1975-04-27",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Zephyr.jpg",
+      "difficulty": "High",
+      "description": "Zephyr is an airborne kaiju resembling a majestic dragon. Its wingspan spans miles, and it rides the jet streams, causing powerful winds and lightning storms.",
+      "abilities": [
+        "Aerokinesis: Zephyr can manipulate air currents, controlling gusts of wind and directing storms.",
+        "Electrokinesis: Zephyr can generate and control lightning, unleashing devastating electrical attacks on its foes.",
+        "Aerial Dominance: Zephyr's mastery of the skies grants it unparalleled maneuverability and agility, making it a formidable aerial combatant."
+      ],
+      "kaijuHunter": {
+        "id": "KH-002",
+        "organization_name": "Vanguard Sentinels",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Vanguard_Sentinels.jpg",
+        "leader_name": "Captain Lyra",
+        "headquarter": "Citadel Prime",
+        "founded_in": 1985,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-03",
+      "name": "Obsidian the Lava Behemoth",
+      "type": "Type-C",
+      "height": "300 meters",
+      "age": "Unknown",
+      "strength_level": 8,
+      "isActive": false,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "2000-09-01",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju//Obsidian.jpg",
+      "difficulty": "Extreme",
+      "description": "Obsidian emerges from volcanic eruptions, its molten rock body glowing with intense heat. It leaves trails of magma wherever it walks, scorching the earth.",
+      "abilities": [
+        "Pyrokinesis: Obsidian can manipulate and control lava and flames, creating rivers of molten rock and infernos at will.",
+        "Geokinesis: Obsidian has control over earth and stone, allowing it to shape the landscape and create seismic disturbances.",
+        "Heat Absorption: Obsidian absorbs heat energy, making it virtually immune to fire-based attacks and extreme temperatures."
+      ],
+      "kaijuHunter": {
+        "id": "KH-003",
+        "organization_name": "Apex Protectors",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Apex_Protectors.jpg",
+        "leader_name": "General Atlas",
+        "headquarter": "Stronghold Omega",
+        "founded_in": 2005,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-04",
+      "name": "Verdant the Forest Colossus",
+      "type": "Type-A",
+      "height": "270 meters",
+      "age": "Unknown",
+      "strength_level": 9,
+      "isActive": true,
+      "isAbsorbed": true,
+      "isWeaponized": false,
+      "firstSighted": "2003-08-06",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Verdant.jpg",
+      "difficulty": "High",
+      "description": "Verdant is a walking forest—a living ecosystem. Its bark-covered skin houses countless creatures, and its breath releases spores that spawn new plant life.",
+      "abilities": [
+        "Biomanipulation: Verdant can control plant life, accelerating growth, shaping vegetation, and animating trees and vines to serve as extensions of itself.",
+        "Regrowth: Verdant has the ability to regenerate and heal itself rapidly, even from severe injuries, using the energy of the surrounding plant life.",
+        "Photosynthesis Beam: Verdant can emit concentrated beams of photosynthetic energy, capable of nourishing or devastating plant-based organisms."
+      ],
+      "kaijuHunter": {
+        "id": "KH-004",
+        "organization_name": "Thunderclap Division",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Thunderclap_Division.jpg",
+        "leader_name": "Colonel Drake",
+        "headquarter": "Thunderbase Alpha",
+        "founded_in": 1982,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-05",
+      "name": "Nyx the Shadow Specter",
+      "type": "Type-B",
+      "height": "240 meters",
+      "age": "Unknown",
+      "strength_level": 6,
+      "isActive": false,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "1990-02-14",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Nyx.jpg",
+      "difficulty": "High",
+      "description": "Nyx is a shadowy kaiju that materializes from darkness. Its form is ever-shifting, and it feeds on fear. Its touch plunges areas into eternal night.",
+      "abilities": [
+        "Umbrakinesis: Nyx can control shadows and darkness, enveloping areas in pitch-blackness or shaping shadows into solid constructs.",
+        "Fear Manipulation: Nyx can induce and amplify fear in its opponents, weakening their resolve and rendering them more susceptible to its influence.",
+        "Shadowmeld: Nyx can merge with shadows, becoming intangible and virtually undetectable, allowing it to move unseen and strike from unexpected angles."
+      ],
+      "kaijuHunter": {
+        "id": "KH-005",
+        "organization_name": "Shadow Hunters Guild",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Shadow_Hunters.jpg",
+        "leader_name": "Master Sable",
+        "headquarter": "Shadow Keep",
+        "founded_in": 1998,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-06",
+      "name": "Tempest the Thunder Titan",
+      "type": "Type-C",
+      "height": "320 meters",
+      "age": "Unknown",
+      "strength_level": 8,
+      "isActive": true,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "2000-06-11",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Tempest.jpg",
+      "difficulty": "Extreme",
+      "description": "Tempest generates storms wherever it roams. Its body crackles with electricity, and its roar echoes like thunder. It can summon lightning bolts at will.",
+      "abilities": [
+        "Electrogenesis: Tempest can generate and control electricity, producing powerful lightning bolts and electrical fields.",
+        "Storm Manipulation: Tempest can manipulate weather patterns, conjuring storms of immense size and intensity.",
+        "Aeroportation: Tempest can teleport through air molecules, allowing it to move at incredible speeds and evade attacks."
+      ],
+      "kaijuHunter": {
+        "id": "KH-006",
+        "organization_name": "Starlight Crusaders",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Starlight_Crusaders.jpg",
+        "leader_name": "Commander Nova",
+        "headquarter": "Astrum Citadel",
+        "founded_in": 2001,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-07",
+      "name": "Abyssal the Deep Diver",
+      "type": "Type-A",
+      "height": "280 meters",
+      "age": "Unknown",
+      "strength_level": 7,
+      "isActive": false,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "1961-10-25",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Abyssal.jpg",
+      "difficulty": "High",
+      "description": "Abyssal dwells in the ocean's depths, its bioluminescent body illuminating the darkness. Its tentacles reach the ocean floor, stirring ancient secrets.",
+      "abilities": [
+        "Hydrogenesis: Abyssal can create and control water, manipulating currents and generating tidal waves and whirlpools.",
+        "Bioluminescence: Abyssal emits light from its body, illuminating the darkest depths of the ocean and attracting prey with its mesmerizing glow.",
+        "Aquatic Empathy: Abyssal can communicate with marine life, commanding creatures of the deep to do its bidding."
+      ],
+      "kaijuHunter": {
+        "id": "KH-007",
+        "organization_name": "Ironclad Legion",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Ironclad_Legion.jpg",
+        "leader_name": "General Ironhide",
+        "headquarter": "Ironforge Bastion",
+        "founded_in": 1987,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-08",
+      "name": "Ignis the Ember Golem",
+      "type": "Type-B",
+      "height": "230 meters",
+      "age": "Unknown",
+      "strength_level": 8,
+      "isActive": true,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "1958-07-19",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Ignis.jpg",
+      "difficulty": "Extreme",
+      "description": "Ignis is a walking furnace, fueled by eternal flames. Its fiery fists can melt steel, and its footsteps ignite the ground, leaving trails of embers.",
+      "abilities": [
+        "Pyrogenesis: Ignis can generate and manipulate fire, unleashing torrents of flames and incinerating anything in its path.",
+        "Heat Aura: Ignis emits intense heat from its body, scorching the surrounding area and causing spontaneous combustion in nearby objects.",
+        "Molten Core: Ignis's core is a pool of molten lava, providing it with near-limitless energy and resilience against extreme temperatures."
+      ],
+      "kaijuHunter": {
+        "id": "KH-008",
+        "organization_name": "Frostbite Brigade",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Frostbite_Brigade.jpg",
+        "leader_name": "Captain Frost",
+        "headquarter": "Glacier Outpost",
+        "founded_in": 1995,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-09",
+      "name": "Sylvan the Moss Monarch",
+      "type": "Type-C",
+      "height": "280 meters",
+      "age": "Unknown",
+      "strength_level": 7,
+      "isActive": false,
+      "isAbsorbed": false,
+      "isWeaponized": true,
+      "firstSighted": "1963-03-08",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Sylvan.jpg",
+      "difficulty": "High",
+      "description": "Sylvan is a colossal moss-covered insect. Its wings create pollen storms, and its gentle hum rejuvenates forests, bringing life to barren lands.",
+      "abilities": [
+        "Biological Manipulation: Sylvan can control plant and insect life, animating flora and fauna to serve its will and creating vast swarms of insects.",
+        "Pollenization: Sylvan can release clouds of pollen, inducing rapid growth in plant life and causing allergic reactions in opponents.",
+        "Regenerative Resonance: Sylvan's hum emits healing vibrations, accelerating cellular regeneration in nearby organisms and repairing environmental damage."
+      ],
+      "kaijuHunter": {
+        "id": "KH-009",
+        "organization_name": "Blaze Squadron",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Blaze_Squadron.jpg",
+        "leader_name": "Lieutenant Pyra",
+        "headquarter": "Inferno Citadel",
+        "founded_in": 2008,
+        "isActive": true
+      }
+    },
+    {
+      "id": "DKJ-10",
+      "name": "Lithos the Stone Warden",
+      "type": "Type-A",
+      "height": "290 meters",
+      "age": "Unknown",
+      "strength_level": 9,
+      "isActive": true,
+      "isAbsorbed": false,
+      "isWeaponized": false,
+      "firstSighted": "1960-12-15",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Lithos.jpg",
+      "difficulty": "Extreme",
+      "description": "Lithos is a living mountain, its rocky form adorned with ancient runes. It awakens during seismic events, defending the land from cataclysms.",
+      "abilities": [
+        "Geomancy: Lithos can manipulate earth and stone, causing eartheadquarteruakes, creating rock formations, and shaping the terrain to its will.",
+        "Runic Enchantment: Lithos is imbued with mystical runes, granting it enhanced durability, strength, and resistance to magical attacks.",
+        "Tectonic Tremor: Lithos can emit shockwaves through the ground, destabilizing structures and disrupting opponents' footing."
+      ],
+      "kaijuHunter": {
+        "id": "KH-010",
+        "organization_name": "Thunderbird Regiment",
+        "organization_logo_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju-hunter/Thunderbird_Regiment.jpg",
+        "leader_name": "Major Thunderwing",
+        "headquarter": "Stormhold Bastion",
+        "founded_in": 1989,
+        "isActive": true
+      }
+    }
+  ]
+  
