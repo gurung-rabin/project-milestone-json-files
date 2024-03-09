@@ -10,7 +10,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "2003-11-03",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Ryujin.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Ryujin.jpg",
       "difficulty": "Extreme",
       "description": "Ryujin is a colossal sea serpent with iridescent scales that shimmer like the ocean's surface. Its breath weapon is a torrential rainstorm that floods entire cities.",
       "abilities": [
@@ -39,7 +39,7 @@
       "isAbsorbed": false,
       "isWeaponized": true,
       "firstSighted": "1975-04-27",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Zephyr.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Zephyr.jpg",
       "difficulty": "High",
       "description": "Zephyr is an airborne kaiju resembling a majestic dragon. Its wingspan spans miles, and it rides the jet streams, causing powerful winds and lightning storms.",
       "abilities": [
@@ -68,7 +68,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "2000-09-01",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju//Obsidian.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Obsidian.jpg",
       "difficulty": "Extreme",
       "description": "Obsidian emerges from volcanic eruptions, its molten rock body glowing with intense heat. It leaves trails of magma wherever it walks, scorching the earth.",
       "abilities": [
@@ -97,7 +97,7 @@
       "isAbsorbed": true,
       "isWeaponized": false,
       "firstSighted": "2003-08-06",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Verdant.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Verdant.jpg",
       "difficulty": "High",
       "description": "Verdant is a walking forest—a living ecosystem. Its bark-covered skin houses countless creatures, and its breath releases spores that spawn new plant life.",
       "abilities": [
@@ -126,7 +126,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "1990-02-14",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Nyx.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Nyx.jpg",
       "difficulty": "High",
       "description": "Nyx is a shadowy kaiju that materializes from darkness. Its form is ever-shifting, and it feeds on fear. Its touch plunges areas into eternal night.",
       "abilities": [
@@ -155,7 +155,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "2000-06-11",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Tempest.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Tempest.jpg",
       "difficulty": "Extreme",
       "description": "Tempest generates storms wherever it roams. Its body crackles with electricity, and its roar echoes like thunder. It can summon lightning bolts at will.",
       "abilities": [
@@ -184,7 +184,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "1961-10-25",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Abyssal.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Abyssal.jpg",
       "difficulty": "High",
       "description": "Abyssal dwells in the ocean's depths, its bioluminescent body illuminating the darkness. Its tentacles reach the ocean floor, stirring ancient secrets.",
       "abilities": [
@@ -213,7 +213,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "1958-07-19",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Ignis.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Ignis.jpg",
       "difficulty": "Extreme",
       "description": "Ignis is a walking furnace, fueled by eternal flames. Its fiery fists can melt steel, and its footsteps ignite the ground, leaving trails of embers.",
       "abilities": [
@@ -242,7 +242,7 @@
       "isAbsorbed": false,
       "isWeaponized": true,
       "firstSighted": "1963-03-08",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Sylvan.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Sylvan.jpg",
       "difficulty": "High",
       "description": "Sylvan is a colossal moss-covered insect. Its wings create pollen storms, and its gentle hum rejuvenates forests, bringing life to barren lands.",
       "abilities": [
@@ -271,7 +271,7 @@
       "isAbsorbed": false,
       "isWeaponized": false,
       "firstSighted": "1960-12-15",
-      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-gurung-rabin/tree/main/project/milestone1-terminal-app/kaiju/Lithos.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/gurung-rabin/project-milestone-json-files/main/kaiju/Lithos.jpg",
       "difficulty": "Extreme",
       "description": "Lithos is a living mountain, its rocky form adorned with ancient runes. It awakens during seismic events, defending the land from cataclysms.",
       "abilities": [
