@@ -14,9 +14,9 @@
       "difficulty": "Extreme",
       "description": "Ryujin is a colossal sea serpent with iridescent scales that shimmer like the ocean's surface. Its breath weapon is a torrential rainstorm that floods entire cities.",
       "abilities": [
-        "Hydrokinesis: Ryujin can manipulate water at will, controlling even the most massive tidal waves.",
-        "Atmospheric Distortion: Ryujin's presence creates atmospheric disturbances, leading to sudden storms and chaotic weather patterns.",
-        "Hydroportation: Ryujin can teleport through bodies of water, allowing it to swiftly travel across oceans."
+        "Hydrokinesis",
+        "Atmospheric Distortion",
+        "Hydroportation"
       ],
       "kaijuHunter": {
         "id": "KH-001",
@@ -43,9 +43,9 @@
       "difficulty": "High",
       "description": "Zephyr is an airborne kaiju resembling a majestic dragon. Its wingspan spans miles, and it rides the jet streams, causing powerful winds and lightning storms.",
       "abilities": [
-        "Aerokinesis: Zephyr can manipulate air currents, controlling gusts of wind and directing storms.",
-        "Electrokinesis: Zephyr can generate and control lightning, unleashing devastating electrical attacks on its foes.",
-        "Aerial Dominance: Zephyr's mastery of the skies grants it unparalleled maneuverability and agility, making it a formidable aerial combatant."
+        "Aerokinesis",
+        "Electrokinesis",
+        "Aerial Dominance"
       ],
       "kaijuHunter": {
         "id": "KH-002",
@@ -72,9 +72,9 @@
       "difficulty": "Extreme",
       "description": "Obsidian emerges from volcanic eruptions, its molten rock body glowing with intense heat. It leaves trails of magma wherever it walks, scorching the earth.",
       "abilities": [
-        "Pyrokinesis: Obsidian can manipulate and control lava and flames, creating rivers of molten rock and infernos at will.",
-        "Geokinesis: Obsidian has control over earth and stone, allowing it to shape the landscape and create seismic disturbances.",
-        "Heat Absorption: Obsidian absorbs heat energy, making it virtually immune to fire-based attacks and extreme temperatures."
+        "Pyrokinesis",
+        "Geokinesis",
+        "Heat Absorption"
       ],
       "kaijuHunter": {
         "id": "KH-003",
@@ -101,9 +101,9 @@
       "difficulty": "High",
       "description": "Verdant is a walking forest—a living ecosystem. Its bark-covered skin houses countless creatures, and its breath releases spores that spawn new plant life.",
       "abilities": [
-        "Biomanipulation: Verdant can control plant life, accelerating growth, shaping vegetation, and animating trees and vines to serve as extensions of itself.",
-        "Regrowth: Verdant has the ability to regenerate and heal itself rapidly, even from severe injuries, using the energy of the surrounding plant life.",
-        "Photosynthesis Beam: Verdant can emit concentrated beams of photosynthetic energy, capable of nourishing or devastating plant-based organisms."
+        "Biomanipulation",
+        "Regrowth",
+        "Photosynthesis Beam"
       ],
       "kaijuHunter": {
         "id": "KH-004",
@@ -130,9 +130,9 @@
       "difficulty": "High",
       "description": "Nyx is a shadowy kaiju that materializes from darkness. Its form is ever-shifting, and it feeds on fear. Its touch plunges areas into eternal night.",
       "abilities": [
-        "Umbrakinesis: Nyx can control shadows and darkness, enveloping areas in pitch-blackness or shaping shadows into solid constructs.",
-        "Fear Manipulation: Nyx can induce and amplify fear in its opponents, weakening their resolve and rendering them more susceptible to its influence.",
-        "Shadowmeld: Nyx can merge with shadows, becoming intangible and virtually undetectable, allowing it to move unseen and strike from unexpected angles."
+        "Umbrakinesis",
+        "Fear Manipulation",
+        "Shadowmeld"
       ],
       "kaijuHunter": {
         "id": "KH-005",
@@ -159,9 +159,9 @@
       "difficulty": "Extreme",
       "description": "Tempest generates storms wherever it roams. Its body crackles with electricity, and its roar echoes like thunder. It can summon lightning bolts at will.",
       "abilities": [
-        "Electrogenesis: Tempest can generate and control electricity, producing powerful lightning bolts and electrical fields.",
-        "Storm Manipulation: Tempest can manipulate weather patterns, conjuring storms of immense size and intensity.",
-        "Aeroportation: Tempest can teleport through air molecules, allowing it to move at incredible speeds and evade attacks."
+        "Electrogenesis",
+        "Storm Manipulation",
+        "Aeroportation"
       ],
       "kaijuHunter": {
         "id": "KH-006",
@@ -188,9 +188,9 @@
       "difficulty": "High",
       "description": "Abyssal dwells in the ocean's depths, its bioluminescent body illuminating the darkness. Its tentacles reach the ocean floor, stirring ancient secrets.",
       "abilities": [
-        "Hydrogenesis: Abyssal can create and control water, manipulating currents and generating tidal waves and whirlpools.",
-        "Bioluminescence: Abyssal emits light from its body, illuminating the darkest depths of the ocean and attracting prey with its mesmerizing glow.",
-        "Aquatic Empathy: Abyssal can communicate with marine life, commanding creatures of the deep to do its bidding."
+        "Hydrogenesis",
+        "Bioluminescence",
+        "Aquatic Empathy"
       ],
       "kaijuHunter": {
         "id": "KH-007",
@@ -217,9 +217,9 @@
       "difficulty": "Extreme",
       "description": "Ignis is a walking furnace, fueled by eternal flames. Its fiery fists can melt steel, and its footsteps ignite the ground, leaving trails of embers.",
       "abilities": [
-        "Pyrogenesis: Ignis can generate and manipulate fire, unleashing torrents of flames and incinerating anything in its path.",
-        "Heat Aura: Ignis emits intense heat from its body, scorching the surrounding area and causing spontaneous combustion in nearby objects.",
-        "Molten Core: Ignis's core is a pool of molten lava, providing it with near-limitless energy and resilience against extreme temperatures."
+        "Pyrogenesis",
+        "Heat Aura",
+        "Molten Core"
       ],
       "kaijuHunter": {
         "id": "KH-008",
@@ -246,9 +246,9 @@
       "difficulty": "High",
       "description": "Sylvan is a colossal moss-covered insect. Its wings create pollen storms, and its gentle hum rejuvenates forests, bringing life to barren lands.",
       "abilities": [
-        "Biological Manipulation: Sylvan can control plant and insect life, animating flora and fauna to serve its will and creating vast swarms of insects.",
-        "Pollenization: Sylvan can release clouds of pollen, inducing rapid growth in plant life and causing allergic reactions in opponents.",
-        "Regenerative Resonance: Sylvan's hum emits healing vibrations, accelerating cellular regeneration in nearby organisms and repairing environmental damage."
+        "Biological Manipulation",
+        "Pollenization",
+        "Regenerative Resonance"
       ],
       "kaijuHunter": {
         "id": "KH-009",
@@ -275,9 +275,9 @@
       "difficulty": "Extreme",
       "description": "Lithos is a living mountain, its rocky form adorned with ancient runes. It awakens during seismic events, defending the land from cataclysms.",
       "abilities": [
-        "Geomancy: Lithos can manipulate earth and stone, causing eartheadquarteruakes, creating rock formations, and shaping the terrain to its will.",
-        "Runic Enchantment: Lithos is imbued with mystical runes, granting it enhanced durability, strength, and resistance to magical attacks.",
-        "Tectonic Tremor: Lithos can emit shockwaves through the ground, destabilizing structures and disrupting opponents' footing."
+        "Geomancy",
+        "Runic Enchantment",
+        "Tectonic Tremor"
       ],
       "kaijuHunter": {
         "id": "KH-010",
