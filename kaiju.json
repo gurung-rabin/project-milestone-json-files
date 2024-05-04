@@ -264,7 +264,7 @@
       "id": "DKJ-10",
       "name": "Lithos the Stone Warden",
       "type": "Type-A",
-      "height": "290 meters",
+      "height": 290,
       "age": "Unknown",
       "strength_level": 9,
       "isActive": true,
